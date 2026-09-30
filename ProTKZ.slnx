@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ProTKZ.vcxproj" Id="4d22dbb3-b34b-4126-8af2-f3bcf5538657" />
+</Solution>
